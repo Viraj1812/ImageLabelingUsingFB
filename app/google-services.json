@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077340094058",
+    "project_id": "fir-imagelabeling-d6d4c",
+    "storage_bucket": "fir-imagelabeling-d6d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077340094058:android:288c9b36abdcd1743c1413",
+        "android_client_info": {
+          "package_name": "com.firebase.imagelabeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077340094058-v9akr2uf1kga32madbv69kb3qpra4qe3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxWCKtOaL0HP5ajlJaFbseATYtG31F7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077340094058-v9akr2uf1kga32madbv69kb3qpra4qe3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
